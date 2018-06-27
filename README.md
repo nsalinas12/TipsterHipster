@@ -40,17 +40,16 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the main problems I faced in this project was distinguishing the double tax button as a rate versus a cash value. For example, if the tax entered was $3, it would take the tip percentage to be 300% and the output would be totally wrong. Another error I faced was with the animations when I connected certain animations to the wrong methods, and it would result in certain methods being used twice and others used once.
 
 ## Credits
 
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
-
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
+- None
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2018 Nicholas Salinas
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
